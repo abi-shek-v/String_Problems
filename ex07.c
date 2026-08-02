@@ -1,3 +1,7 @@
+/* 
+Write a C program to convert all lowercase letters in an email subject
+into uppercase without using strupr().
+*/
 #include<stdio.h>
 int main(){
 char str[100];
