@@ -1,3 +1,6 @@
+/* 
+Write a C program to reverse a password string and display the reversed version.
+*/
 #include<stdio.h>
 int main(){
 char str[100];
