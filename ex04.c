@@ -1,3 +1,6 @@
+/* 
+Write a C program to count the number of words in a sentence entered by a user.
+*/
 #include<stdio.h>
 int main(){
 char str[100];
