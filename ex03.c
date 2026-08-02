@@ -1,3 +1,6 @@
+/* 
+Write a C program to count the number of vowels and consonants in a customer's feedback message.
+*/
 #include<stdio.h>
 int main(){
 char str[100];
