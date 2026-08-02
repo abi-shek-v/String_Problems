@@ -1,3 +1,7 @@
+/* 
+Write a C program to convert all uppercase letters
+in a company name into lowercase.
+*/
 #include<stdio.h>
 int main(){
 char str[100];
