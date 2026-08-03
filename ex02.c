@@ -1,3 +1,6 @@
+/* 
+Write a C program to calculate the length of a product name without using strlen().
+*/
 #include<stdio.h>
 int main(){
 char str[100];

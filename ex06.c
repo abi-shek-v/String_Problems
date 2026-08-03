@@ -1,3 +1,7 @@
+/* 
+Write a C program to check whether an entered word is a palindrome.
+Example: "LEVEL".
+*/
 #include<stdio.h>
 int main(){
 char str[100];

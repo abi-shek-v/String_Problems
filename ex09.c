@@ -1,3 +1,7 @@
+/* 
+Write a C program to count how many times a particular character
+appears in a paragraph.
+*/
 #include<stdio.h>
 int main(){
 char str[100];
